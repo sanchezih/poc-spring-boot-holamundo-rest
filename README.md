@@ -11,8 +11,14 @@ Aplicacion Spring Boot/Maven que expone una API REST.
 ./mvnw clean install
 ```
 
+## Arranque
+
+```bash
+./mvnw spring-boot:run
+```
+
 ## Uso
 
-```java
-./mvnw spring-boot:run
+```bash
+curl http://localhost:8080/v1/holamundo
 ```
