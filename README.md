@@ -5,12 +5,6 @@
 
 Aplicacion Spring Boot/Maven que expone una API REST.
 
-## Compilacion
-
-```bash
-./mvnw clean install
-```
-
 ## Arranque
 
 ```bash
@@ -18,6 +12,8 @@ Aplicacion Spring Boot/Maven que expone una API REST.
 ```
 
 ## Uso
+
+Desde un navegador, ir a http://localhost:8080/v1/holamundo o desde una terminal ejecutar:
 
 ```bash
 curl http://localhost:8080/v1/holamundo
