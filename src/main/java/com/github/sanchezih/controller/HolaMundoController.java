@@ -1,4 +1,4 @@
-package com.github.sanchezih.holamundo.controller;
+package com.github.sanchezih.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

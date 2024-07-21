@@ -1,4 +1,4 @@
-package com.github.sanchezih.holamundo;
+package com.github.sanchezih;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
