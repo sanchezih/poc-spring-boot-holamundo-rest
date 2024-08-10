@@ -1,7 +1,7 @@
-# POC Spring Boot - Hola Mundo
+# POC Spring Boot - Hola Mundo REST
 
-![GitHub last commit](https://img.shields.io/github/last-commit/sanchezih/poc-spring-boot-holamundo)
-![GitHub repo size](https://img.shields.io/github/repo-size/sanchezih/poc-spring-boot-holamundo)
+![GitHub last commit](https://img.shields.io/github/last-commit/sanchezih/poc-spring-boot-holamundo-rest)
+![GitHub repo size](https://img.shields.io/github/repo-size/sanchezih/poc-spring-boot-holamundo-rest)
 
 Aplicacion Spring Boot/Maven que expone una API REST.
 

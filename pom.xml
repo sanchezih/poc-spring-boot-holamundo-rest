@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.sanchezih</groupId>
-	<artifactId>poc-spring-boot-holamundo</artifactId>
+	<artifactId>poc-spring-boot-holamundo-rest</artifactId>
 	<version>1.0.0</version>
-	<name>poc-spring-boot-holamundo</name>
+	<name>poc-spring-boot-holamundo-rest</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
 	<licenses>
