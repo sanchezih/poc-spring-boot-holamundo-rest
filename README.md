@@ -5,7 +5,7 @@
 
 Aplicacion Spring Boot/Maven que expone una API REST.
 
-## Arranque
+## Compilacion y ejecucion
 
 ```bash
 $ ./mvnw spring-boot:run
