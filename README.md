@@ -13,8 +13,8 @@ $ ./mvnw spring-boot:run
 
 ## Uso
 
-Desde un navegador, ir a http://localhost:8080/v1/holamundo o desde una terminal ejecutar:
+Desde un navegador, ir a http://localhost:8080/api/v1/holamundo o desde una terminal ejecutar:
 
 ```bash
-$ curl http://localhost:8080/v1/holamundo
+$ curl http://localhost:8080/api/v1/holamundo
 ```
